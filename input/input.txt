@@ -1,0 +1,19 @@
+type;no;dateCreated;dateSend;version
+ORDER;00001;20180620151834;20180620152001;1
+line_no;itemCode;itemDescription;price;quantityPerPack;orderedQuantity;unitOfMeasure;deliveryDateLatest
+1;C0001;Karışık Meyveli Kek;1,50;48;50;BOX;06Jul2018
+2;C0002;Çikolatalı Karamelli Kek;2,00;48;100;BOX;06Jul2018
+3;C0003;Muzlu Kek;,50;96;20;BOX;13Jul2018
+4;C0004;Çilekli Kek;0,50;96;20;BOX;13Jul2018
+5;G0001;Gofret;1,50;48;50;Koli;20Jul2018
+6;G0002;;1,00;48;50;Koli;20Jul2018
+7;G0003;Sütlü Çikolatalı Gofret;2;48;50;Koli;20Jul2018
+8;G0004;Bitter Çikolatalı Gofret;2,50;48;50;Kol;20Jul2018
+9;;;1,50;48;50;BOX;20Jul2018
+10;D0001;Portakal Aromalı Meyve Suyu 1 Litre;1,50;48;50;BOX;27Jul2018
+11;D0002;Şeftali Aromalı Meyve Suyu  1 Litre;1,50;48;50;BOX;27Jul2018
+12;D0003;Limon Aromalı Meyve Suyu 1 Litre;1,50;48;50;BOX;27Jul2018
+13;D0004;Vişne Aromalı Meyve Suyu 1 Litre;1,50;48;50;BOX;27Jul2018
+14;D0005;Şeftali Aromalı Soğuk Çay 1 Litre;1,50;48;50;BOX;27Jul2018
+15;D0006;Limon Aromalı Soğuk Çay 1 Litre;1,50;48;50;BOX;27Jul2018
+16;D0007;Coca Cola 1,5 Litre;2,00;48;960;Adet;18Jul2018
